@@ -1,4 +1,4 @@
-# **OSSF Project/WG Name**
+# **Governance Subcommittee**
 
 [Brief description of the initiative]
 
