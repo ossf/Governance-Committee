@@ -1,4 +1,4 @@
-# **Governance Subcommittee**
+# **Governance Committee**
 
 [Brief description of the initiative]
 
