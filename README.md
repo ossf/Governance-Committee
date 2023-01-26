@@ -4,7 +4,7 @@ This committee’s mission is to support the three governing bodies of the OpenS
 
 This OpenSSF Governance Committee Repo serves as a central location for the GB or TAC to open issues they wish the GC to tackle.
 
-The OpenSSFGovernance Committee follows the Linux Foundations Code of Conduct. Issues related to Code of Conduct should follow the [Linux Foundation Code of Conduct Guidelines](https://events.linuxfoundation.org/about/code-of-conduct/)
+The Governance Committee is not focused on inter-personal or personnel issues. For those kinds of concerns, the OpenSSF Code of Conduct may apply. Please review the [Code of Conduct](https://openssf.org/community/code-of-conduct/) and follow its instructions for follow up on relevant concerns.
 
 
 ## 
