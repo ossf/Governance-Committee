@@ -15,7 +15,7 @@ The OpenSSF Governing Board Governance Committee will comprise members from the 
 - 7 Governing Board Members
 - 2 TAC Members
 
-The selection process of the Governing Board Members will be determined by the Governing Board (via a vote if necessary). The Security Community Representative must be offered a seat. In addition, the Governing Board should select, when possible, at least one General Member Board Representative to be part of the 7 total. 
+The selection process of the Governing Board Members will be determined by the Governing Board (via a vote if necessary). In addition, the Governing Board should select, when possible, at least one General Member Board Representative to be part of the 7 total. 
 
 
 The selection process of the TAC Members will be determined by the TAC (via a vote if necessary). However one TAC Member out of the 2 must be the TAC Chair (the TAC Chair seat does not count towards the Governing Boards seven seats).
