@@ -19,3 +19,7 @@ This committee is not empowered to make decisions but will vote on its recommend
 
  
 
+## Meetings
+
+Meetings are generally every other Thursday 2PM ET and are open to [members](https://openssf.org/join/).
+[Meeting Notes are located on this Google Doc](https://docs.google.com/document/d/143hymd9MIDfOz9Pe80sE2IPE2O4_ZgZvx5q3e4bUC60/edit#heading=h.wemdgcxhm6ol)
